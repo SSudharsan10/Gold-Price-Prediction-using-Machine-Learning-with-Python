@@ -12,3 +12,5 @@ Gold, as a commodity, holds significant value and is subject to various market i
 
 **Evaluation and Validation**: We assess the model's performance, validate its predictions, and compare them with actual gold prices.
 
+
+**DataSet Link**: https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data/
